@@ -1,0 +1,2 @@
+setlocal conceallevel<
+setlocal concealcursor<
