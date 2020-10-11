@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead $HOME/.aws/{config,credentials} setfiletype dosini
+autocmd BufNewFile,BufRead ~/.aws/{config,credentials} setfiletype dosini

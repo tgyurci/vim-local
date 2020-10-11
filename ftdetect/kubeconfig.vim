@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead ~/.kube/kubeconfig-*,~/.kube/config setfiletype yaml
+autocmd BufNewFile,BufRead ~/.kube/config,~/.kube/kubeconfig-* setfiletype yaml

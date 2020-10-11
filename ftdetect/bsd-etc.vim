@@ -5,4 +5,4 @@ autocmd BufRead /etc/{rc.*,*.subr} setfiletype sh
 autocmd BufRead /etc/periodic.conf setfiletype sh
 
 " BSD periodic scripts
-autocmd BufRead /etc/periodic/** setfiletype sh
+autocmd BufRead /etc/periodic/* setfiletype sh

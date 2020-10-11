@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead /*/etc/apache*/**/*.conf setfiletype apache
+autocmd BufNewFile,BufRead */etc/apache*/*.conf setfiletype apache
